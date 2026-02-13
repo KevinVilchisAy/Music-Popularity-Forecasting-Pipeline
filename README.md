@@ -30,10 +30,6 @@ o	random_state=42 → reproducible results
 o	n_jobs=-1 → uses all CPU cores
 •	Model trained on X_train and y_train, tested on X_test.
 
-
-
-
-
 Evaluation Metrics
 •	R² (R-squared): How much variance in popularity is explained by the model.
 •	RMSE (Root Mean Squared Error): Average prediction error in popularity points.
